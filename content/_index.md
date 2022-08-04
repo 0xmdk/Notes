@@ -23,4 +23,4 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-- ![Pws_Icon](/cus_img/pws_icon-002.png)  [PWS_APP_QUERY](/PowerShell_Public/pwsappqry.md)
+- ![Pws_Icon](/cus_img/pws_icon-002.png)  [PWS_APP_QUERY](pwsappqry.md)
