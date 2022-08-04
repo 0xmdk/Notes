@@ -70,14 +70,14 @@ description:
 
 # title of the home page (also for SEO)
 page_title:
-  "🪴 Quartz 3.2"
+  "🪴 0xmdk"
 
 # links to show in the footer
-links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+#links:
+#  - link_name: Twitter
+#    link: https://twitter.com/_jzhao
+#  - link_name: Github
+#    link: https://github.com/jackyzha0
 ```
 
 ### Code Block Titles
