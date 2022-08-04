@@ -25,4 +25,4 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
 ### PowerShell Samples
-- ![ Pws_Icon](/cus_img/pws_icon-002.png)[  PWS_APP_QUERY](/PowerShell_Public/pwsappqry.md)
+![ Pws_Icon](/cus_img/pws_icon-002.png)[  PWS_APP_QUERY](/PowerShell_Public/pwsappqry.md)
