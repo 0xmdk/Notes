@@ -1,5 +1,5 @@
 ---
-title: 📚 0xmdk
+title: 🪄 0xmdk
 ---
 
 
