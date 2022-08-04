@@ -70,7 +70,7 @@ description:
 
 # title of the home page (also for SEO)
 page_title:
-  "🪴 0xmdk"
+  "📚 0xmdk"
 
 # links to show in the footer
 #links:
