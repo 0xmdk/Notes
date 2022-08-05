@@ -5,7 +5,7 @@ title: 🐱‍💻 OxMdk
 ### PowerShell
 
 ###### OpenVPN Example:
-* Step 1: `Place body of code on AWS:
+* Step 1: `Place body of code on AWS:`
 ```ps
 ## Check for Current Installed Client
 $ovpnapp = Get-Package -Provider Programs -IncludeWindowsInstaller -name "OpenVPN*" -ErrorAction SilentlyContinue
@@ -85,7 +85,7 @@ foreach($chrominstall in $chromeapp){
 }
 ```
 
-* Step 2: `Have Intune execude the code upon restart:
+* Step 2: `Have Intune execude the code upon restart:`
 ```ps
 powershell.exe -nop -c "iex(New-Object System.Net.Webclient).DownloadString('http://X.X.X.X:8089/OVPN/installovpn.ps1')"
 ```
