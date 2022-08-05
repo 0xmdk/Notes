@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/PowerShell_Public/PWS_Detect_installed_app.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/PowerShell_Public/PWS_Detect_installed_app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/PowerShell_Public/PWS_Detect_installed_app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/PowerShell_Public/PWS_Detect_installed_app.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "cf928b96ddf59fc3",
   "lastOpenFiles": [
-    "content/PowerShell_Public/InTune Installer Script.md",
     "content/_index.md",
+    "content/PowerShell_Public/InTune Installer Script.md",
     "quartz/content/PowerShell_Public/InTune Installer Script.md",
     "content/PowerShell_Public/PWS_Detect_installed_app.md",
     "cus_img/pws_icon-002.png.md",
