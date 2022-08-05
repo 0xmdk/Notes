@@ -130,9 +130,9 @@
   },
   "active": "58650236d56d19a7",
   "lastOpenFiles": [
-    "content/PowerShell_Public/PWS_Detect_installed_app.md",
-    "content/_index.md",
     "content/PowerShell_Public/InTune Installer Script.md",
+    "content/_index.md",
+    "content/PowerShell_Public/PWS_Detect_installed_app.md",
     "cus_img/pws_icon-002.png.md",
     "README.md",
     "screenshot.png"
