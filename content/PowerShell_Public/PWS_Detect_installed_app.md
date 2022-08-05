@@ -2,7 +2,7 @@
 title: 🐱‍💻 OxMdk
 ---
 ###### Mimecast Example:
-```ps1
+```ps
 $MCOUT = Get-WmiObject -Class Win32_product|Where-Object {$_.Name -match "Mimecast for Outlook 64-bit"}
 $outlook = Get-Process -name OUTLOOK -ErrorAction SilentlyContinue
 
