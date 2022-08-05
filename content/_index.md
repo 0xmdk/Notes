@@ -3,7 +3,8 @@ title: 🪄 0xmdk
 ---
 
 
-### PowerShell Samples 
+### PowerShell Samples
+
 ![Pws_Icon](/cus_img/pws_icon-002.png)[PWS_APP_Detect](PWS_Detect_installed_app.md)
 
 
