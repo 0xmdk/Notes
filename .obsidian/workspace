@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "fa624e4988a73621",
+    "type": "split",
+    "children": [
+      {
+        "id": "58650236d56d19a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/_index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbfe3e7f05d10694",
+    "type": "split",
+    "children": [
+      {
+        "id": "f18a33a9a80d245a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74f67bfcb58f75c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "464a271fa7857469",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f55b177b0cc6009a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "right": {
+    "id": "40c7ab3fdb576d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f6635938ecee3cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f2590e74a01cd9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab2f6bca3bec8ada",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc2e53791831a6ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49e1b000e4a878ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "58650236d56d19a7",
+  "lastOpenFiles": [
+    "content/PowerShell_Public/PWS_Detect_installed_app.md",
+    "content/_index.md",
+    "content/PowerShell_Public/InTune Installer Script.md",
+    "cus_img/pws_icon-002.png.md",
+    "README.md",
+    "screenshot.png"
+  ]
+}
